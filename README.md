@@ -28,3 +28,7 @@ Facilitar a comunicação e colaboração entre os participantes das reuniões.
 
 ## Fluxograma:
 https://www.canva.com/design/DAGD67kRhzc/IYk7UrZYIRzEToAT7PjmgQ/edit?utm_content=DAGD67kRhzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+![Logo da minha aplicação](src/assets/AGENDAFACIL%20(1).png)
+
+
