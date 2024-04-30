@@ -28,6 +28,10 @@ module.exports = {
       },
     },
     extend: {
+      fontFamily: {
+        'saira-stencil': ['Saira Stencil One', 'sans-serif'],
+        saira: ['Saira', 'sans-serif'],
+      },
       keyframes: {
         'accordion-down': {
           from: { height: '0' },

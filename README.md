@@ -32,3 +32,18 @@ https://www.canva.com/design/DAGD67kRhzc/IYk7UrZYIRzEToAT7PjmgQ/edit?utm_content
 ![Logo da minha aplicação](src/assets/AGENDAFACIL%20(1).png)
 
 
+### Instalação
+
+1. Faça o clone do projeto
+
+2. Execute:
+
+```
+$ npm install
+$ npm run dev
+```
+
+- Extensões recomendadas: Auto Rename Tag, Color Highlight, ES7 + React,  Prettier, Tailwind CSS Intellisense
+
+
+
