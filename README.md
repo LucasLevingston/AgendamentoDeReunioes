@@ -1,30 +1,30 @@
-# React + TypeScript + Vite
+#AgendaFacil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##EQUIPE: LUCAS LEVINGSTON ARAUJO GADELHA MEDEIROS
+                  RAIMUNDO RODRIGUES SILVA NETO
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Problemática:
 
-## Expanding the ESLint configuration
+###O processo manual de agendamento de reuniões entre pessoas é muitas vezes demorado e propenso a conflitos de horários. A falta de coordenação eficaz pode levar a atrasos, cancelamentos e dificuldades na comunicação. Portanto, é necessário desenvolver um sistema automatizado que facilite o agendamento de reuniões entre pessoas de forma eficiente e conveniente.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+##Objetivos: 
+Desenvolver um sistema que permita às pessoas agendar reuniões de forma fácil e rápida. 
+Minimizar conflitos de horários e atrasos nas reuniões. 
+Facilitar a comunicação e colaboração entre os participantes das reuniões.
 
-- Configure the top-level `parserOptions` property like this:
+ 
+##Questionamentos:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+##1- Quais são as necessidades e preferências dos usuários em relação ao agendamento de reuniões? 
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+##2- Quais tecnologias serão mais adequadas para desenvolver o sistema automatizado de agendamento de reuniões? 
+
+##3- Como o sistema se integrará com os calendários dos usuários para evitar conflitos de horários? 
+
+##4- Quais são as funcionalidades essenciais que o sistema deve ter, como notificações automáticas, reagendamento fácil, etc.? 
+
+
+##Fluxograma:
+https://www.canva.com/design/DAGD67kRhzc/IYk7UrZYIRzEToAT7PjmgQ/edit?utm_content=DAGD67kRhzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
